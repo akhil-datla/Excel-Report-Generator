@@ -13,7 +13,7 @@ Quickly convert your raw data into Microsoft Excel reports using Go.
 
 ### Prerequisites
 
-- Go 1.18+
+- Go 1.20+
 - A template Excel file (e.g., `template.xlsx`) **(OPTIONAL)**
 
 ### Installation
