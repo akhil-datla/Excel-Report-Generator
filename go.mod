@@ -1,6 +1,6 @@
-module main
+module github.com/akhil-datla/xlreport
 
-go 1.20
+go 1.21
 
 require github.com/xuri/excelize/v2 v2.8.1
 
